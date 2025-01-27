@@ -19,7 +19,9 @@ Ensure you have the following installed:
 - Flutter SDK (Latest Stable Version)  
 - Dart SDK  
 - Android Studio or VS Code with Flutter Plugin  
-- A simulator/emulator or a physical device  
+- A simulator/emulator or a physical device
+
+***Make sure to use your own API links in the code for authentication***
 
 ### **Clone the Repository**  
 ```sh
@@ -42,7 +44,7 @@ flutter run
 2. The app will send the login credentials to the API  
 3. If authenticated, the API returns user data, which is stored in the database  
 4. The app navigates to the home screen upon successful login  
-5. If authentication fails, an error message is displayed  
+5. If authentication fails, an error message is displayed
 
 ## **License**  
 This project is open-source and available under the MIT License.
