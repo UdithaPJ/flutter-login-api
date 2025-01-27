@@ -1,4 +1,4 @@
-## **Flutter API Integration Demo**  
+## **Flutter API Integration for Authentication**  
 
 This project is a simple Flutter application that demonstrates how to integrate and use third-party APIs for user authentication. The retrieved data from the API is then used to populate a local database. The primary goal of this project is to gain a better understanding of working with APIs in a real-world application and how to handle the authentication process efficiently.  
 
